@@ -7,7 +7,7 @@
 </p>
 
 <p>🥱 Trying best to sticking to just snoozing alarms, not ideas.<br>
-💬 Open to collab, chaos, and coffee.</p>
+💬 Open to collab, chaos and coffee.</p>
 
 <img align="right" src="https://media1.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" />
 
