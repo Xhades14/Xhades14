@@ -16,7 +16,6 @@
 <ul>
   <li>🎯 Into machine learning, agentic AI, and stuff that uses graphs in useful ways.</li>
   <li>🏗️ I overthink my prompts- do you really think AI is not judging us?</li>
-  <li>🧠 Occasionally do research just to prove a hunch.</li>
   <li>🏆 Have crashed (and occasionally won) a few hackathons.</li>
   <li>🎤 Teaching Assistant for Social Computing and pretend I know what I’m talking about.</li>
 </ul>
