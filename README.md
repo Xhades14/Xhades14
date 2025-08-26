@@ -9,7 +9,7 @@
 <p> Trying best to sticking to just snoozing alarms, not ideas.<br>
 💬 Open to collab, chaos and coffee.</p>
 
-<img align="right" src="https://media1.tenor.com/m/0hFPh2AGi_wAAAAd/cat-computer.gif" style="margin-top: -50px;"/>
+<img align="right" src="https://media1.tenor.com/m/0hFPh2AGi_wAAAAd/cat-computer.gif" style="margin-top: 50px;"/>
 
 <h2>A Few Quick Things</h2>
 
