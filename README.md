@@ -9,15 +9,15 @@
 <p>🥱 Trying best to sticking to just snoozing alarms, not ideas.<br>
 💬 Open to collab, chaos and coffee.</p>
 
-<img align="right" src="https://media1.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gi](https://media1.tenor.com/m/0hFPh2AGi_wAAAAd/cat-computer.gif" />
 
 <h2>⚡️ A Few Quick Things</h2>
 
 <ul>
   <li>🎯 Into machine learning, agentic AI, and stuff that uses graphs in useful ways.</li>
   <li>🏗️ I overthink my prompts- do you really think AI is not judging us?</li>
-  <li>🏆 Have crashed (and occasionally won) a few hackathons.</li>
-  <li>🎤 Teaching Assistant for Social Computing and pretend I know what I’m talking about.</li>
+  <li>🏆 Have crashed (and occasionally won) a few (3) hackathons.</li>
+  <li>🎤 Teaching Assistant for Social Computing (essentially NLP and Graph Theory slapped together)- I pretend I know what I’m talking about.</li>
 </ul>
 
 <h2>🧪 Now Playing With</h2>
