@@ -22,5 +22,5 @@
 <h2>Learning</h2>
 
 <p><b>GO</b> - <em>simply because its the powerhouse of the infrastructure behind AI systems - APIs, ML & Data Pipelines, CI/CD tools like docker, terraform, etc.</em></p>
-<p><b>RL</b> - <em>it's the future (update: or maybe not- ES (Evolution strategies) by Cognizant AI Labs suggest otherwise).</em></p>
+<p><b>RL</b> - <em>it's the future. (update: or maybe not- ES (Evolution strategies) by Cognizant AI Labs suggest otherwise)</em></p>
 
