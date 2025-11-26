@@ -7,7 +7,7 @@
 </p>
 
 <p>💬 Open to collab, chaos and coffee.</p>
-<p> Upcoming Intern at Nokia R&D | Ex- Product and AI at Angel One (Fintech $2.2B+) | Undergrad ML Researcher at Deakin University</p>
+<p>💼 Upcoming Intern at Nokia R&D | Ex- Product and AI at Angel One (Fintech $2.2B+) | Undergrad ML Researcher at Deakin University</p>
 
 <img 
   align="right"
