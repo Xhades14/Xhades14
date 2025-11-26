@@ -21,6 +21,6 @@
 
 <h2>Learning</h2>
 
-<p>**GO** - <em>simply because its the powerhouse of the infrastructure behind AI systems - APIs, ML Data Pipelines, CI/CD tools like docker, terraform, etc.</em></p>
-<p>**Deep Reinforcement Learning** - <em>its the future.</em></p>
+<p><b>GO</b> - <em>simply because its the powerhouse of the infrastructure behind AI systems - APIs, ML & Data Pipelines, CI/CD tools like docker, terraform, etc.</em></p>
+<p><b>Deep Reinforcement Learning</b> - <em>it's the future.</em></p>
 
