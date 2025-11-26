@@ -20,7 +20,7 @@
   <li> Into ML, Agentic AI and stuff that use graphs in useful ways, aka KG.</li>
   <li> Finding joy in building personalized & autonomous AI agents using RAG and MCP.</li>
   <li> Have crashed (and occasionally won) a few hackathons- 3 if we are counting.</li>
-  <li> Teaching Assistant for Social Computing Course (essentially NLP and Graph Theory slapped together)- where I just pretend to know what I’m talking about.</li>
+  <li> Teaching Assistant for Social Computing Course (essentially its NLP and Graph Theory slapped together)- where I just pretend to know what I’m talking about.</li>
 </ul>
 
 <h2>Learning</h2>
