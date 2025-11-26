@@ -11,7 +11,7 @@
 <img 
   align="right"
   src="https://media1.tenor.com/m/0hFPh2AGi_wAAAAd/cat-computer.gif"
-  style="height: 280px; object-fit: contain;"
+  style="height: 260px; object-fit: contain;"
 />
 
 <h2>A Few Quick Things</h2>
