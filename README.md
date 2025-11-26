@@ -8,7 +8,11 @@
 
 <p>💬 Open to collab, chaos and coffee.</p>
 
-<img align="right" src="https://media1.tenor.com/m/0hFPh2AGi_wAAAAd/cat-computer.gif" style="margin-top: 50px;"/>
+<img 
+  align="right"
+  src="https://media1.tenor.com/m/0hFPh2AGi_wAAAAd/cat-computer.gif"
+  style="height: 300px; object-fit: contain;"
+/>
 
 <h2>A Few Quick Things</h2>
 
