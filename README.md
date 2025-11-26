@@ -21,7 +21,7 @@
   <li> Finding joy in building personalized & autonomous AI agents using RAG and MCP.</li>
   <li> Have crashed (and occasionally won) a few hackathons- 3 if we are counting.</li>
   <li> Teaching Assistant for Social Computing Course (essentially its NLP and Graph Theory slapped together)- where I just pretend to know what I’m talking about.</li>
-  <li> Upcoming Intern at Nokia R&D, Ex- Product and AI at Angel One (Fintech $2.2B+), ML/DS Research at Deakin University.</li>
+  <li> Upcoming Intern at Nokia R&D, Ex- Product and AI at Angel One (Fintech $2.2B+), Undergrad ML Researcher at Deakin University.</li>
 </ul>
 
 <h2>Learning</h2>
