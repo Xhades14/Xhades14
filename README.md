@@ -18,7 +18,7 @@
 
 <ul>
   <li> Into Machine Learning, Agentic AI and stuff that uses graphs in useful ways, aka your knowledge graphs.</li>
-  <li> Currently addicted to integrating RAG and MCP into systems for building personalized and autonomous AI agents.</li>
+  <li> Currently addicted to trying integrating RAG and MCP into systems for building personalized and autonomous AI agents.</li>
   <li> Have crashed (and occasionally won) a few hackathons- 3 if we are counting.</li>
   <li> Teaching Assistant for Social Computing Course (essentially NLP and Graph Theory slapped together)- where I just pretend to know what I’m talking about.</li>
 </ul>
