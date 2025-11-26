@@ -17,8 +17,8 @@
 <h2>A Few Quick Things</h2>
 
 <ul>
-  <li> Into ML, Agentic AI and stuff that use Graphs in useful ways, aka KG.</li>
-  <li> Find joy in using RAG and MCP for building personalized and autonomous AI agents, for now.</li>
+  <li> Into ML, Agentic AI and stuff that use graphs in useful ways, aka KG.</li>
+  <li> Currently, find joy in building personalized & autonomous AI agents using RAG and MCP.</li>
   <li> Have crashed (and occasionally won) a few hackathons- 3 if we are counting.</li>
   <li> Teaching Assistant for Social Computing Course (essentially NLP and Graph Theory slapped together)- where I just pretend to know what I’m talking about.</li>
 </ul>
