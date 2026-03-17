@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/rishit-rastogi-877472245"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" alt="LinkedIn Badge"></a> 
 </p>
 
-<p>💬 Open to collab, chaos and coffee.</p>
+<p>💬 Open to collab or chaos or both.</p>
 <p>💼 SWE Intern @Nokia R&D | Ex- Product and AI @Angel One | Undergrad ML Researcher @Deakin University</p>
 
 <h2>A Few Quick Things</h2>
