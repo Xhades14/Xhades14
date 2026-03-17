@@ -7,7 +7,7 @@
 </p>
 
 <p>💬 Open to collab or chaos or both.</p>
-<p>💼 SWE Intern @Nokia R&D | Ex- Product and AI @Angel One | Undergrad ML Researcher @Deakin University</p>
+<p>💼 SWE Intern @Nokia R&D | Ex- Product and AI @Angel One | Undergrad ML Research @Deakin University</p>
 
 <h2>A Few Quick Things</h2>
 
