@@ -7,13 +7,7 @@
 </p>
 
 <p>💬 Open to collab, chaos and coffee.</p>
-<p>💼 Upcoming Intern at Nokia R&D | Ex- Product and AI at Angel One (Fintech $2.2B+) | Undergrad ML Researcher at Deakin University</p>
-
-<img 
-  align="right"
-  src="https://media1.tenor.com/m/0hFPh2AGi_wAAAAd/cat-computer.gif"
-  style="height: 225px; object-fit: contain;"
-/>
+<p>💼 Intern @Nokia R&D | Ex- Product and AI @Angel One (Fintech $2.2B+) | Undergrad ML Researcher @Deakin University</p>
 
 <h2>A Few Quick Things</h2>
 
@@ -23,9 +17,4 @@
   <li> Have crashed (and occasionally won) a few hackathons- 3 if we are counting.</li>
   <li> Teaching Assistant for Social Computing Course (essentially its NLP and Graph Theory slapped together)- where I just pretend to know what I’m talking about.</li>
 </ul>
-
-<h2>Learning</h2>
-
-<p><b>GO</b> - <em>simply because its the powerhouse of the infrastructure behind AI systems - APIs, ML & Data Pipelines, CI/CD tools like docker, terraform, etc.</em></p>
-<p><b>RL</b> - <em>it's the future. (update: or maybe not- ES (Evolution strategies) by Cognizant AI Labs suggest otherwise)</em></p>
 
